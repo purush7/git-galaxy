@@ -12,6 +12,13 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
+Hi I'm Vignesh Sekar.
+
+* Java
+* Springboot
+* History repeats itself with GIT
+---
+
 Hi I'm Jane Doe.
 
 * Git
